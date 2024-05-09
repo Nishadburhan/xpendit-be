@@ -1,0 +1,28 @@
+{
+  "name": "xpendit-be",
+  "version": "1.0.0",
+  "description": "Exprens Tracker and Splits for groups",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nishadburhan/xpendit-be.git"
+  },
+  "keywords": [
+    "Expense",
+    "Tracker"
+  ],
+  "author": "Nishad Burhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nishadburhan/xpendit-be/issues"
+  },
+  "homepage": "https://github.com/Nishadburhan/xpendit-be#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
